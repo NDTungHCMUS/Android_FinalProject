@@ -5,17 +5,17 @@
     <img src="images/logo.jpg" alt="Logo" width = 300>
   </a>
   <p align="center">HCMUS</p>
-  <p align="center">CS426 - Mobile Device Application Development</p>
+  <p align="center" style="text-transform: uppercase;">CS426 - Mobile Device Application Development</p>
   <p align="center">
-    Nguyen Dinh Tung
+    <a href="https://github.com/NDTungHCMUS">Nguyen Dinh Tung</a>
     </br>
-    Dang Trung Nghia
+    <a href="https://github.com/nghia051">Dang Trung Nghia</a>
     </br>
-    Bui Nguyen Hoang
+    <a href="https://github.com/hoangteo0103">Bui Nguyen Hoang</a>
     </br>
-    Hoang Nghia Viet
+    <a href="https://github.com/hoangnghiaviet">Hoang Nghia Viet</a>
     </br>
-    Tran Tuan Viet
+    <a href="https://github.com/ttviet2805">Tran Tuan Viet</a>
     </br>
   </p>
 </div>
