@@ -25,6 +25,11 @@
 ## About the project
 AnTap is a food review application. The main purpose of the application is to help people easily access and search for restaurants nationwide. Users can easily view reviews about restaurants in both video and text formats, thereby facilitating their own experiences. A restaurant can be created new at the user's current location. Users can also interact with each other and create restaurant review posts in both text and video formats.
 
+## Setup
+Run the following commands from your terminal:
+1) `https://github.com/NDTungHCMUS/Android_FinalProject.git` to clone this repository
+2) `flutter pub get` in the project root directory to install all the required dependencies.
+
 ## Screens
 ### Login and Signup
 <div align="center">
